@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Radicale is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://radicale.org/
+Radicale provides a simple, open-source CalDAV and CardDAV server for calendars and contacts. It is lightweight, written in Python, and aims to be easy to install and configure, supporting multiple users and authentication methods. The project focuses on interoperability with various clients and offers a straightforward solution for personal and small‑team scheduling needs.
+
+**Areas:** Company · CalDAV · CardDAV · OpenSource · Python · Calendar
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://radicale.org/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/radicale/](https://apis.io/providers/radicale/).
